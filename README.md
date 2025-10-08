@@ -1,4 +1,4 @@
-# 💻 Article Preview Component
+# Article Preview Component
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%205-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-article-preview-component&left_text=repo%20views)
 
-## ℹ️ A Interactive and Responsive Shareable Article Preview From a Fictional Author
+## A Interactive and Responsive Shareable Article Preview From a Fictional Author
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -32,11 +32,11 @@
 
 This project is a fully interactive article preview where users can share said article via Facebook, Twitter, or Pinterest, toggle between light and dark mode, and experience a responsive, accessible design across all screen sizes.
 
-Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
+Created as part of the building challenges from **[Frontend Mentor](https://www.frontendmentor.io/)**.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The component is built with **semantic HTML5**, **modern CSS**, and **vanilla JavaScript modules** to handle dynamic behavior.
 
@@ -44,7 +44,7 @@ The main focus was creating an accessible and mobile-first layout with theme tog
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive layout (mobile-first, scales up to desktop).
 - Light/dark theme toggle
@@ -52,11 +52,11 @@ The main focus was creating an accessible and mobile-first layout with theme tog
 - Made sure site still works in `prefers-reduced-motion`
 - Accessible interactive elements which uses ARIA attributes (`aria-expanded`, `aria-label`, `aria-hidden`)
 - Added a simple keyboard support (`Escape` key closes share links if opened)
-- Pixel-perfect implementation with [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+- Pixel-perfect implementation with **[PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi)**
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - I learned how to utlize more ARIA attributes in HTML5 for better accessibility
 - First time learning that I can't normally target `::after` elements with JavaScript
@@ -67,7 +67,7 @@ The main focus was creating an accessible and mobile-first layout with theme tog
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -78,36 +78,36 @@ The main focus was creating an accessible and mobile-first layout with theme tog
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - JPG design image
 - PerfectPixel
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://article-preview-component-fcc-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://article-preview-component-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **August 2025**
+Month/Year: **August 2025**
 
-📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
+Journey: **5<sup>th</sup>** month of learning _frontend web development_.
